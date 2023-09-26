@@ -1,0 +1,42 @@
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Compiled class file
+bin/
+
+# Dependencies (Gradle-specific)
+buildSrc/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS-specific files (Windows 10)
+Thumbs.db
+ehthumbs.db
+
+# Windows folder configuration files
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
