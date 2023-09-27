@@ -3,6 +3,7 @@ package com.andrewsavich.springripper.quoters;
 import javax.annotation.PostConstruct;
 
 @Profiling
+@DeprecetedClass(newImpl = T1000.class)
 public class TerminatorQuoter implements Quoter {
     private String message;
     @InjectRandomInt(min = 2, max = 7)
